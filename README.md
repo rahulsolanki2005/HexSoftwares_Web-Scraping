@@ -29,6 +29,6 @@ The data is then visualized with **interactive charts** using Plotly for better 
 ---
 
 ### 🧑‍💻 Author
-- **Rahul Solanki
-🎓 B.Tech in Computer Science (Cloud Technology & Information Security)
+- **Rahul Solanki**
+- 🎓 B.Tech in Computer Science (Cloud Technology & Information Security)
 📍 ITM Vocational University, Vadodara, Gujarat
