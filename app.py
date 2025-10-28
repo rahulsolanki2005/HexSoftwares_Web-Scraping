@@ -1,9 +1,9 @@
-import streamlit as st
-import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import streamlit as st
 from datetime import datetime
 import time
 
